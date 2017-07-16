@@ -11,6 +11,7 @@
 * https://www.nonpareille.net/
 * https://www.indiantypefoundry.com/
 * http://mediumextrabold.com/
+* https://www.typotheque.com/
 
 # Typefaces
 * https://plau.co/shop/fontes/motiva-sans/
@@ -78,6 +79,23 @@
 * https://www.indiantypefoundry.com/fonts/caravel
 * https://www.boldmonday.com/typefaces/nitti-grotesk/
 * https://www.boldmonday.com/typefaces/nitti/
+* Edie http://mediumextrabold.com/
+* Maud http://mediumextrabold.com/
+* Galleri http://mediumextrabold.com/
+* Atelier http://mediumextrabold.com/
+* Practice http://mediumextrabold.com/
+* North http://mediumextrabold.com/
+* Inkwell http://mediumextrabold.com/
+* Duplex http://mediumextrabold.com/
+* http://www.regularbolditalic.com/fonts/barbour
+* https://www.typotheque.com/fonts/thesaurus
+* https://www.typotheque.com/fonts/francis_gradient
+* https://www.typotheque.com/fonts/november
+* https://www.typotheque.com/fonts/bara_display
+* https://www.typotheque.com/fonts/william_text
+* https://www.typotheque.com/fonts/neutral
+* https://www.typotheque.com/fonts/audree
+* http://dizajndesign.sk/en/fonts#!font/samples.123.kontrast-grotesk-black
 * 
 * 
 * 
@@ -91,3 +109,26 @@
 * 
 * 
 * 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
