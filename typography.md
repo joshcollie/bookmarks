@@ -13,6 +13,7 @@
 * http://mediumextrabold.com/
 * https://www.typotheque.com/
 * http://www.degarism.com/
+* https://www.goodtypefoundry.com/
 
 # Typefaces
 * https://plau.co/shop/fontes/motiva-sans/
