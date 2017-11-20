@@ -29,6 +29,7 @@
 * http://www.binnenland.ch/font/show/Relevant/book/72/t/Z3Jvdw
 * http://www.binnenland.ch/font/show/T-Star/medium/72/t/Z3Jvdw
 * http://www.binnenland.ch/font/show/T-Star-TW/medium/72/t/Z3Jvdw
+* http://www.myfonts.com/fonts/hoftype/ashbury/
 * http://www.abcdinamo.com/specimen/with?font=prophet
 * http://www.abcdinamo.com/specimen/with?font=favorit
 * Kaffi https://ecal-typefaces.ch/
