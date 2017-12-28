@@ -101,7 +101,7 @@
 * http://dizajndesign.sk/en/fonts#!font/samples.123.kontrast-grotesk-black
 * https://www.myfonts.com/fonts/adobe/arno/
 * http://www.degarism.com/Flatex
-* 
+* Surt https://adeletypefoundry.eu/typecatalogue/surt
 * 
 * 
 * 
