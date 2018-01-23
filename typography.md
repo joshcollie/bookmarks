@@ -102,7 +102,7 @@
 * https://www.myfonts.com/fonts/adobe/arno/
 * http://www.degarism.com/Flatex
 * Surt https://adeletypefoundry.eu/typecatalogue/surt
-* 
+* Nurom https://www.myfonts.com/fonts/northernblock/nurom/
 * 
 * 
 * 
