@@ -64,6 +64,7 @@
 * Maud http://mediumextrabold.com/
 * Media 77 http://www.optimo.ch/typefaces_Media77.html
 * Messina https://luzi-type.ch/messina.html
+* Modern Era https://omsetype.co/modernera/
 * Motiva Sans https://plau.co/shop/fontes/motiva-sans/
 * Neutral https://www.typotheque.com/fonts/neutral
 * New Paris https://www.swisstypefaces.com/fonts/newparis/
