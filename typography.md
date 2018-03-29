@@ -27,6 +27,7 @@
 * Audree https://www.typotheque.com/fonts/audree
 * Bara Displayhttps://www.typotheque.com/fonts/bara_display
 * Barbour http://www.regularbolditalic.com/fonts/barbour
+* Basier http://atipofoundry.com/fonts/basier
 * Beausite https://www.fatype.com/typefaces/beausite
 * Blender http://www.binnenland.ch/font/show/Blender/medium/72/t/Z3Jvdw
 * Bobo https://www.indiantypefoundry.com/fonts/bobo
