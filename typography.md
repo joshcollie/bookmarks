@@ -20,12 +20,12 @@
 * Alena http://www.abclitera.ch/alena/
 * Alpha Headline https://lineto.com/
 * Anisette family https://typofonderie.com/fonts/anisette-family/
-* Area BLhttp://www.binnenland.ch/font/show/Areal-BL/medium/72/t/Z3Jvdw
+* Area BL http://www.binnenland.ch/font/show/Areal-BL/medium/72/t/Z3Jvdw
 * Arno https://www.myfonts.com/fonts/adobe/arno/
 * Ashbury http://www.myfonts.com/fonts/hoftype/ashbury/
 * Atelier http://mediumextrabold.com/
 * Audree https://www.typotheque.com/fonts/audree
-* Bara Displayhttps://www.typotheque.com/fonts/bara_display
+* Bara Display https://www.typotheque.com/fonts/bara_display
 * Barbour http://www.regularbolditalic.com/fonts/barbour
 * Basier http://atipofoundry.com/fonts/basier
 * Beausite https://www.fatype.com/typefaces/beausite
