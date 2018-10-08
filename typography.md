@@ -4,6 +4,7 @@
 * ECAL Typefaces https://ecal-typefaces.ch/
 * Fattype https://www.fatype.com/typefaces
 * Good Type Foundry https://www.goodtypefoundry.com/
+* General Type Studio https://www.generaltypestudio.com
 * Grilli Type https://www.grillitype.com/
 * Indian Type Foundry https://www.indiantypefoundry.com/
 * Lineto https://lineto.com/
