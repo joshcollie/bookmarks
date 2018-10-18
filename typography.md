@@ -95,6 +95,7 @@
 * Stockmar http://www.205.tf/
 * Strator https://www.productiontype.com/family/stratos
 * Suisse https://www.swisstypefaces.com/fonts/suisse/
+* Sul Sans http://r-typography.com/11_sul-sans/
 * Surt https://adeletypefoundry.eu/typecatalogue/surt
 * T-Star TW http://www.binnenland.ch/font/show/T-Star-TW/medium/72/t/Z3Jvdw
 * T-Star http://www.binnenland.ch/font/show/T-Star/medium/72/t/Z3Jvdw
