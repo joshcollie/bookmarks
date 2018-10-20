@@ -35,6 +35,7 @@
 * Buenosaires https://luzi-type.ch/buenosaires.html
 * Cadiz https://luzi-type.ch/cadiz.html
 * Caravel https://www.indiantypefoundry.com/fonts/caravel
+* Cerebri Sans https://hanken.co/product/cerebri/
 * Circular https://lineto.com/
 * Copy http://www.fontseek.info/tags/fonts
 * Dada Grotesk http://www.optimo.ch/typefaces_Dada-Grotesk.html
