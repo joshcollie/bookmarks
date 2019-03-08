@@ -1,5 +1,4 @@
 # Foundries
-* BAT Foundry https://www.batfoundry.com/
 * Degarism http://www.degarism.com/
 * ECAL Typefaces https://ecal-typefaces.ch/
 * Fattype https://www.fatype.com/typefaces
@@ -13,6 +12,7 @@
 * Milleu Grotesque https://www.milieugrotesque.com/
 * Nonpareille  https://www.nonpareille.net/
 * Optimo http://www.optimo.ch
+* Production Type https://www.productiontype.com/
 * Swiss Typefaces https://www.swisstypefaces.com/fonts/
 * Typotheque https://www.typotheque.com/
 
