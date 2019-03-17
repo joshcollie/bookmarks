@@ -1,4 +1,5 @@
 # Foundries
+* Twentyfive http://betwentyfive.com/
 * Degarism http://www.degarism.com/
 * ECAL Typefaces https://ecal-typefaces.ch/
 * Fattype https://www.fatype.com/typefaces
@@ -83,8 +84,8 @@
 * Plaak http://www.205.tf/
 * Plain http://www.optimo.ch/typefaces_Plain.html
 * Plakat http://www.fontseek.info/tags/fonts
-* Practice http://mediumextrabold.com/
 * Practice http://www.optimo.ch/typefaces_Practice.html
+* Prince http://betwentyfive.com/typefaces/prince/
 * Prophet http://www.abcdinamo.com/specimen/with?font=prophet
 * Px Grotesk http://www.optimo.ch/typefaces_Px-Grotesk.html
 * RT Dromo http://www.rt-dromo.com/
