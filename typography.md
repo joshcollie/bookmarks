@@ -92,6 +92,7 @@
 * Regular http://www.binnenland.ch/font/show/Regular/B/72/t/Z3Jvdw
 * Relevant http://www.binnenland.ch/font/show/Relevant/book/72/t/Z3Jvdw
 * Replica https://lineto.com/
+* Rosart https://camelot-typefaces.com/rosart
 * Simplon https://www.swisstypefaces.com/fonts/simplon/
 * Stanley http://www.optimo.ch/typefaces_Stanley.html
 * Stockmar http://www.205.tf/
