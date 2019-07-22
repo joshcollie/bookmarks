@@ -59,6 +59,7 @@
 * Geneo family https://typofonderie.com/fonts/geneo-family/
 * Gernster program https://lineto.com/
 * Helvetius http://www.205.tf/
+* HK Grotesk https://fontlibrary.org/en/font/hk-grotesk
 * Inkwell http://mediumextrabold.com/
 * Kaffi https://ecal-typefaces.ch/
 * Koper https://luzi-type.ch/koper.html
@@ -82,6 +83,7 @@
 * Odisseia https://plau.co/shop/fontes/odisseia/
 * Parade-One http://www.lift-type.fr/
 * Parisine https://typofonderie.com/fonts/parisine-family/
+* Pecita https://usemodify.com/fonts/pecita/
 * Petit Serif http://www.205.tf/
 * Plaak http://www.205.tf/
 * Plain http://www.optimo.ch/typefaces_Plain.html
