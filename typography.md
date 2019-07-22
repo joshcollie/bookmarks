@@ -24,6 +24,7 @@
 * Anisette family https://typofonderie.com/fonts/anisette-family/
 * Area BL http://www.binnenland.ch/font/show/Areal-BL/medium/72/t/Z3Jvdw
 * Arno https://www.myfonts.com/fonts/adobe/arno/
+* Appeltje https://lucas-nolte.de/en/appeltje/
 * Ashbury http://www.myfonts.com/fonts/hoftype/ashbury/
 * Atelier http://mediumextrabold.com/
 * Audree https://www.typotheque.com/fonts/audree
