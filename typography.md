@@ -75,6 +75,7 @@
 * New Paris https://www.swisstypefaces.com/fonts/newparis/
 * Nitti Grotesk https://www.boldmonday.com/typefaces/nitti-grotesk/
 * Nitti https://www.boldmonday.com/typefaces/nitti/
+* Nocturno Display https://www.typotheque.com/fonts/nocturno_display
 * North http://mediumextrabold.com/
 * November https://www.typotheque.com/fonts/november
 * Nurom https://www.myfonts.com/fonts/northernblock/nurom/
