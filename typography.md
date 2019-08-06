@@ -1,5 +1,6 @@
 # Foundries
 * Twentyfive http://betwentyfive.com/
+* Type A2 https://www.a2-type.co.uk/fonts
 * Degarism http://www.degarism.com/
 * ECAL Typefaces https://ecal-typefaces.ch/
 * Fattype https://www.fatype.com/typefaces
