@@ -65,6 +65,7 @@
 * HK Grotesk https://fontlibrary.org/en/font/hk-grotesk
 * Inkwell http://mediumextrabold.com/
 * Kaffi https://ecal-typefaces.ch/
+* Karelia https://monokrom.no/fonts/karelia
 * Koper https://luzi-type.ch/koper.html
 * Le Monde Journal https://typofonderie.com/fonts/le-monde-journal-family/
 * Le Monde Livre https://typofonderie.com/fonts/le-monde-livre-classic-family/
