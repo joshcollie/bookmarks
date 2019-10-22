@@ -1,5 +1,6 @@
 # Foundries
 * Atipo Foundry http://atipofoundry.com
+* CoType Foundry https://cotypefoundry.com
 * Twentyfive http://betwentyfive.com/
 * Type A2 https://www.a2-type.co.uk/fonts
 * Degarism http://www.degarism.com/
