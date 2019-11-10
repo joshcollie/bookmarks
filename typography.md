@@ -53,15 +53,16 @@
 * Favorit http://www.abcdinamo.com/specimen/with?font=favorit
 * Flatex http://www.degarism.com/Flatex
 * Francis Gradient https://www.typotheque.com/fonts/francis_gradient
+* Galleri http://mediumextrabold.com/
+* Genath http://www.optimo.ch/typefaces_Genath.html
+* Geneo family https://typofonderie.com/fonts/geneo-family/
+* Gernster program https://lineto.com/
 * GT America https://www.grillitype.com/typefaces/gt-america
 * GT Cinetype https://www.grillitype.com/typefaces/gt-cinetype
 * GT Pressura https://www.grillitype.com/typefaces/gt-pressura
 * GT Sectra https://www.grillitype.com/typefaces/gt-sectra
 * GT Walsheim https://www.grillitype.com/typefaces/gt-walsheim
-* Galleri http://mediumextrabold.com/
-* Genath http://www.optimo.ch/typefaces_Genath.html
-* Geneo family https://typofonderie.com/fonts/geneo-family/
-* Gernster program https://lineto.com/
+* Guillon https://feedtype.ca/en/typefaces/guillon/
 * Helvetius http://www.205.tf/
 * HK Grotesk https://fontlibrary.org/en/font/hk-grotesk
 * Inkwell http://mediumextrabold.com/
