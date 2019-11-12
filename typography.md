@@ -80,6 +80,7 @@
 * Motiva Sans https://plau.co/shop/fontes/motiva-sans/
 * Neutral https://www.typotheque.com/fonts/neutral
 * New Paris https://www.swisstypefaces.com/fonts/newparis/
+* New Rail Alphabet https://www.a2-type.co.uk/new-rail-alphabet
 * Nitti Grotesk https://www.boldmonday.com/typefaces/nitti-grotesk/
 * Nitti https://www.boldmonday.com/typefaces/nitti/
 * Nocturno Display https://www.typotheque.com/fonts/nocturno_display
