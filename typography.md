@@ -78,6 +78,7 @@
 * Messina https://luzi-type.ch/messina.html
 * Modern Era https://omsetype.co/modernera/
 * Motiva Sans https://plau.co/shop/fontes/motiva-sans/
+* Neue Haas Unica https://www.myfonts.com/fonts/linotype/neue-haas-unica/
 * Neutral https://www.typotheque.com/fonts/neutral
 * New Paris https://www.swisstypefaces.com/fonts/newparis/
 * New Rail Alphabet https://www.a2-type.co.uk/new-rail-alphabet
