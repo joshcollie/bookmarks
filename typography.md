@@ -66,6 +66,7 @@
 * Helvetius http://www.205.tf/
 * HK Grotesk https://fontlibrary.org/en/font/hk-grotesk
 * Inkwell http://mediumextrabold.com/
+* Infra https://www.fontshop.com/families/ff-infra
 * Kaffi https://ecal-typefaces.ch/
 * Karelia https://monokrom.no/fonts/karelia
 * Koper https://luzi-type.ch/koper.html
