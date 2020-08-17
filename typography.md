@@ -17,6 +17,7 @@
 * Nonpareille  https://www.nonpareille.net/
 * Optimo http://www.optimo.ch
 * Production Type https://www.productiontype.com/
+* Simon Type https://simontype.com/
 * Swiss Typefaces https://www.swisstypefaces.com/fonts/
 * Typotheque https://www.typotheque.com/
 
