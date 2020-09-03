@@ -60,6 +60,7 @@
 * Gernster program https://lineto.com/
 * GT America https://www.grillitype.com/typefaces/gt-america
 * GT Cinetype https://www.grillitype.com/typefaces/gt-cinetype
+* GT Haptik https://www.grillitype.com/typeface/gt-haptik
 * GT Pressura https://www.grillitype.com/typefaces/gt-pressura
 * GT Sectra https://www.grillitype.com/typefaces/gt-sectra
 * GT Walsheim https://www.grillitype.com/typefaces/gt-walsheim
@@ -68,9 +69,11 @@
 * HK Grotesk https://fontlibrary.org/en/font/hk-grotesk
 * Inkwell http://mediumextrabold.com/
 * Infra https://www.fontshop.com/families/ff-infra
+* Input https://input.fontbureau.com/
 * Kaffi https://ecal-typefaces.ch/
 * Karelia https://monokrom.no/fonts/karelia
 * Koper https://luzi-type.ch/koper.html
+* Lausanne https://nizarkazan.myshopify.com/products/pre-release-lausanne-family
 * Le Monde Journal https://typofonderie.com/fonts/le-monde-journal-family/
 * Le Monde Livre https://typofonderie.com/fonts/le-monde-livre-classic-family/
 * Maax http://www.205.tf/
