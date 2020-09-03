@@ -33,6 +33,7 @@
 * Ashbury http://www.myfonts.com/fonts/hoftype/ashbury/
 * Atelier http://mediumextrabold.com/
 * Audree https://www.typotheque.com/fonts/audree
+* Averta https://www.myfonts.com/pack/594229
 * Bara Display https://www.typotheque.com/fonts/bara_display
 * Barbour http://www.regularbolditalic.com/fonts/barbour
 * Basier http://atipofoundry.com/fonts/basier
