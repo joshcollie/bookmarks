@@ -14,6 +14,7 @@
 * Luzi Type https://luzi-type.ch/
 * Medium Extra Bold http://mediumextrabold.com/
 * Milleu Grotesque https://www.milieugrotesque.com/
+* Nodo Type Foundry https://nodotypefoundry.com/
 * Nonpareille  https://www.nonpareille.net/
 * Optimo http://www.optimo.ch
 * Production Type https://www.productiontype.com/
