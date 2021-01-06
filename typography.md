@@ -80,6 +80,7 @@
 * Le Monde Livre https://typofonderie.com/fonts/le-monde-livre-classic-family/
 * Maax http://www.205.tf/
 * Maison Neue https://www.milieugrotesque.com/typefaces/maison_neue/
+* Matter https://displaay.net/typeface/matter/
 * Maud http://mediumextrabold.com/
 * Media 77 http://www.optimo.ch/typefaces_Media77.html
 * Messina https://luzi-type.ch/messina.html
