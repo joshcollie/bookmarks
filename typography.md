@@ -94,6 +94,7 @@
 * Nitti https://www.boldmonday.com/typefaces/nitti/
 * Nocturno Display https://www.typotheque.com/fonts/nocturno_display
 * North http://mediumextrabold.com/
+* Nouvelle Grotesk http://www.nouvelle-grotesk.com/
 * November https://www.typotheque.com/fonts/november
 * Nurom https://www.myfonts.com/fonts/northernblock/nurom/
 * Odisseia https://plau.co/shop/fontes/odisseia/
