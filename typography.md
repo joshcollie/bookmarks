@@ -4,6 +4,7 @@
 * Twentyfive http://betwentyfive.com/
 * Type A2 https://www.a2-type.co.uk/fonts
 * Degarism http://www.degarism.com/
+* Displaay https://displaay.net
 * ECAL Typefaces https://ecal-typefaces.ch/
 * Fattype https://www.fatype.com/typefaces
 * Good Type Foundry https://www.goodtypefoundry.com/
