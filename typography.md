@@ -21,6 +21,7 @@
 * Production Type https://www.productiontype.com/
 * Simon Type https://simontype.com/
 * Swiss Typefaces https://www.swisstypefaces.com/fonts/
+* Tokyo Type https://www.tokotype.com/
 * Typotheque https://www.typotheque.com/
 
 # Typefaces
