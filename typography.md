@@ -94,6 +94,7 @@
 * New Paris https://www.swisstypefaces.com/fonts/newparis/
 * New Rail Alphabet https://www.a2-type.co.uk/new-rail-alphabet
 * Neurial Grotesk https://www.myfonts.com/fonts/indian-type-foundry/neurial-grotesk/
+* Next https://optimo.ch/typefaces/next
 * Nitti Grotesk https://www.boldmonday.com/typefaces/nitti-grotesk/
 * Nitti https://www.boldmonday.com/typefaces/nitti/
 * Nocturno Display https://www.typotheque.com/fonts/nocturno_display
