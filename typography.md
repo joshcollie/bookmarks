@@ -45,6 +45,7 @@
 * Bobo https://www.indiantypefoundry.com/fonts/bobo
 * Buenosaires https://luzi-type.ch/buenosaires.html
 * Cadiz https://luzi-type.ch/cadiz.html
+* Camphor https://www.fontshop.com/families/camphor
 * Centra https://sharptype.co/typefaces/centra/centra-no1/
 * Caravel https://www.indiantypefoundry.com/fonts/caravel
 * Cerebri Sans https://hanken.co/product/cerebri/
