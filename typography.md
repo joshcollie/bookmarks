@@ -72,6 +72,7 @@
 * GT Walsheim https://www.grillitype.com/typefaces/gt-walsheim
 * Guillon https://feedtype.ca/en/typefaces/guillon/
 * Helvetius http://www.205.tf/
+* Hellix https://displaay.net/typeface/hellix/
 * HK Grotesk https://fontlibrary.org/en/font/hk-grotesk
 * Humanist 777 https://www.myfonts.com/fonts/bitstream/humanist-777/
 * Inkwell http://mediumextrabold.com/
