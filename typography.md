@@ -123,6 +123,7 @@
 * Relevant http://www.binnenland.ch/font/show/Relevant/book/72/t/Z3Jvdw
 * Replica https://lineto.com/
 * Rosart https://camelot-typefaces.com/rosart
+* Say what you feel https://fontsinuse.com/typefaces/137240/say-what-you-feel
 * Simplon https://www.swisstypefaces.com/fonts/simplon/
 * Stanley http://www.optimo.ch/typefaces_Stanley.html
 * Stockmar http://www.205.tf/
