@@ -6,6 +6,7 @@
 * Degarism http://www.degarism.com/
 * Displaay https://displaay.net
 * ECAL Typefaces https://ecal-typefaces.ch/
+* F37 Foundry https://f37foundry.com
 * Fattype https://www.fatype.com/typefaces
 * Good Type Foundry https://www.goodtypefoundry.com/
 * General Type Studio https://www.generaltypestudio.com
