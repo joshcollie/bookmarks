@@ -72,6 +72,7 @@
 * GT Sectra https://www.grillitype.com/typefaces/gt-sectra
 * GT Walsheim https://www.grillitype.com/typefaces/gt-walsheim
 * Guillon https://feedtype.ca/en/typefaces/guillon/
+* Haffer Collection https://displaay.net/typeface/haffer-collection/
 * Helvetius http://www.205.tf/
 * Hellix https://displaay.net/typeface/hellix/
 * HK Grotesk https://fontlibrary.org/en/font/hk-grotesk
