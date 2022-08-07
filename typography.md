@@ -82,6 +82,7 @@
 * Input https://input.fontbureau.com/
 * Kaffi https://ecal-typefaces.ch/
 * Karelia https://monokrom.no/fonts/karelia
+* Kern https://typefaces.pizza/shop/fonts/kern
 * Koper https://luzi-type.ch/koper.html
 * Lausanne https://nizarkazan.myshopify.com/products/pre-release-lausanne-family
 * Le Monde Journal https://typofonderie.com/fonts/le-monde-journal-family/
