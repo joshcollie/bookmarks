@@ -64,7 +64,7 @@
 * Galleri http://mediumextrabold.com/
 * Genath http://www.optimo.ch/typefaces_Genath.html
 * Geneo family https://typofonderie.com/fonts/geneo-family/
-* Gernster program https://lineto.com/
+* Gerstner Programm https://forgotten-shapes.com/gerstner-programm
 * GT America https://www.grillitype.com/typefaces/gt-america
 * GT Cinetype https://www.grillitype.com/typefaces/gt-cinetype
 * GT Haptik https://www.grillitype.com/typeface/gt-haptik
