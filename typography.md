@@ -80,6 +80,7 @@
 * Inkwell http://mediumextrabold.com/
 * Infra https://www.fontshop.com/families/ff-infra
 * Input https://input.fontbureau.com/
+* Jagger https://f37foundry.com/fonts/f37-jagger
 * Kaffi https://ecal-typefaces.ch/
 * Karelia https://monokrom.no/fonts/karelia
 * Kern https://typefaces.pizza/shop/fonts/kern
