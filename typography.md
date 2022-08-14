@@ -97,6 +97,7 @@
 * Modern Era https://omsetype.co/modernera/
 * Motiva Sans https://plau.co/shop/fontes/motiva-sans/
 * Muoto https://www.205.tf/look/muoto/
+* Nein https://extraset.ch/typefaces/nein/
 * Neue Haas Unica https://www.myfonts.com/fonts/linotype/neue-haas-unica/
 * Neutral https://www.typotheque.com/fonts/neutral
 * New Paris https://www.swisstypefaces.com/fonts/newparis/
