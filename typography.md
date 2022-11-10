@@ -59,6 +59,7 @@
 * Edie http://mediumextrabold.com/
 * Euclip https://www.swisstypefaces.com/fonts/euclid/
 * Executive http://www.optimo.ch/typefaces_Executive.html
+* Everett http://weltkern.com/shop/detail-typeface/everett
 * Favorit http://www.abcdinamo.com/specimen/with?font=favorit
 * Flatex http://www.degarism.com/Flatex
 * Francis Gradient https://www.typotheque.com/fonts/francis_gradient
