@@ -21,6 +21,7 @@
 * Nonpareille  https://www.nonpareille.net/
 * Optimo http://www.optimo.ch
 * Production Type https://www.productiontype.com/
+* Rene Bieder https://www.renebieder.com/fonts
 * Simon Type https://simontype.com/
 * Swiss Typefaces https://www.swisstypefaces.com/fonts/
 * Tokyo Type https://www.tokotype.com/
