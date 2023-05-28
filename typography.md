@@ -1,9 +1,9 @@
 # Foundries
+* A2 Type https://www.a2-type.co.uk/fonts
 * Atipo Foundry http://atipofoundry.com
 * Blaze Type https://blazetype.eu/
+* Colophone Foundry https://www.colophon-foundry.org/
 * CoType Foundry https://cotypefoundry.com
-* Twentyfive http://betwentyfive.com/
-* Type A2 https://www.a2-type.co.uk/fonts
 * Degarism http://www.degarism.com/
 * Displaay https://displaay.net
 * ECAL Typefaces https://ecal-typefaces.ch/
@@ -26,6 +26,7 @@
 * Simon Type https://simontype.com/
 * Swiss Typefaces https://www.swisstypefaces.com/fonts/
 * Tokyo Type https://www.tokotype.com/
+* Twentyfive http://betwentyfive.com/
 * Typotheque https://www.typotheque.com/
 
 # Typefaces
