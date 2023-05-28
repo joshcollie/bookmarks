@@ -1,6 +1,6 @@
 # Foundries
 * Atipo Foundry http://atipofoundry.com
-* Blazen Type https://blazetype.eu/
+* Blaze Type https://blazetype.eu/
 * CoType Foundry https://cotypefoundry.com
 * Twentyfive http://betwentyfive.com/
 * Type A2 https://www.a2-type.co.uk/fonts
@@ -134,6 +134,7 @@
 * Replica https://lineto.com/
 * Rework https://socio-type.com/demo/rework-display
 * Rosart https://camelot-typefaces.com/rosart
+* Rules https://blazetype.eu/typefaces/rules
 * Say what you feel https://fontsinuse.com/typefaces/137240/say-what-you-feel
 * Simplon https://www.swisstypefaces.com/fonts/simplon/
 * Stanley http://www.optimo.ch/typefaces_Stanley.html
