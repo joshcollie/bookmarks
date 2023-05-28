@@ -64,6 +64,7 @@
 * Everett http://weltkern.com/shop/detail-typeface/everett
 * Favorit http://www.abcdinamo.com/specimen/with?font=favorit
 * Flatex http://www.degarism.com/Flatex
+* Fold https://www.colophon-foundry.org/typefaces/fold-grotesque
 * Francis Gradient https://www.typotheque.com/fonts/francis_gradient
 * Galleri http://mediumextrabold.com/
 * Genath http://www.optimo.ch/typefaces_Genath.html
