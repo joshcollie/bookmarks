@@ -16,6 +16,7 @@
 * Indian Type Foundry https://www.indiantypefoundry.com/
 * Lineto https://lineto.com/
 * Luzi Type https://luzi-type.ch/
+* Maxitype https://maxitype.com/
 * Medium Extra Bold http://mediumextrabold.com/
 * Milleu Grotesque https://www.milieugrotesque.com/
 * Nodo Type Foundry https://nodotypefoundry.com/
