@@ -108,7 +108,6 @@
 * Nein https://extraset.ch/typefaces/nein/
 * Neue Haas Unica https://www.myfonts.com/fonts/linotype/neue-haas-unica/
 * Neutral https://www.typotheque.com/fonts/neutral
-* New Paris https://www.swisstypefaces.com/fonts/newparis/
 * New Rail Alphabet https://www.a2-type.co.uk/new-rail-alphabet
 * Neurial Grotesk https://www.myfonts.com/fonts/indian-type-foundry/neurial-grotesk/
 * Next https://optimo.ch/typefaces/next
