@@ -107,9 +107,9 @@
 * Muoto https://www.205.tf/look/muoto/
 * Nein https://extraset.ch/typefaces/nein/
 * Neue Haas Unica https://www.myfonts.com/fonts/linotype/neue-haas-unica/
+* Neurial Grotesk https://www.indiantypefoundry.com/fonts/neurial-grotesk
 * Neutral https://www.typotheque.com/fonts/neutral
 * New Rail Alphabet https://www.a2-type.co.uk/new-rail-alphabet
-* Neurial Grotesk https://www.myfonts.com/fonts/indian-type-foundry/neurial-grotesk/
 * Next https://optimo.ch/typefaces/next
 * Nitti Grotesk https://www.boldmonday.com/typefaces/nitti-grotesk/
 * Nitti https://www.boldmonday.com/typefaces/nitti/
