@@ -22,6 +22,7 @@
 * Nodo Type Foundry https://nodotypefoundry.com/
 * Nonpareille  https://www.nonpareille.net/
 * Optimo http://www.optimo.ch
+* Out Of The Dark https://www.outofthedark.xyz
 * Production Type https://www.productiontype.com/
 * Rene Bieder https://www.renebieder.com/fonts
 * Simon Type https://simontype.com/
