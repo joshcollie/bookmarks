@@ -70,6 +70,7 @@
 * Fold https://www.colophon-foundry.org/typefaces/fold-grotesque
 * Francis Gradient https://www.typotheque.com/fonts/francis_gradient
 * Galleri http://mediumextrabold.com/
+* Geist Mono https://github.com/vercel/geist-font
 * Genath http://www.optimo.ch/typefaces_Genath.html
 * Geneo family https://typofonderie.com/fonts/geneo-family/
 * Gerstner Programm https://forgotten-shapes.com/gerstner-programm
