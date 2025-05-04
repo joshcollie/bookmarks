@@ -12,6 +12,7 @@
 * Good Type Foundry https://www.goodtypefoundry.com/
 * General Type Studio https://www.generaltypestudio.com
 * Grilli Type https://www.grillitype.com/
+* Hot Type https://hottype.co/
 * Letters From Sweden https://lettersfromsweden.se/
 * Indian Type Foundry https://www.indiantypefoundry.com/
 * Lineto https://lineto.com/
