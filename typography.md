@@ -28,6 +28,7 @@
 * Rene Bieder https://www.renebieder.com/fonts
 * Simon Type https://simontype.com/
 * Swiss Typefaces https://www.swisstypefaces.com/fonts/
+* Tiny Type Co https://tinytype.co/
 * Tokyo Type https://www.tokotype.com/
 * Twentyfive http://betwentyfive.com/
 * Typotheque https://www.typotheque.com/
